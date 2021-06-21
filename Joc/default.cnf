@@ -1,0 +1,32 @@
+Ants 1.0
+
+NUM_PLAYERS           4
+NUM_ROUNDS          250
+BOARD_ROWS           25
+BOARD_COLS           25
+QUEEN_PERIOD          2
+SOLDIER_CARBO         3
+SOLDIER_PROTE         3
+SOLDIER_LIPID         3
+WORKER_CARBO          1
+WORKER_PROTE          1
+WORKER_LIPID          1
+BREAD_CARBO           2
+BREAD_PROTE           0
+BREAD_LIPID           1
+SEED_CARBO            0
+SEED_PROTE            1
+SEED_LIPID            2
+LEAF_CARBO            1
+LEAF_PROTE            2
+LEAF_LIPID            0
+NUM_INI_SOLDIERS      3
+NUM_INI_WORKERS      11
+BONUS_ROWS            3
+BONUS_COLS            3
+BONUS_PERIOD         25
+WORKER_LIFE          75
+SOLDIER_LIFE        150
+QUEEN_LIFE          300
+
+GENERATOR1
