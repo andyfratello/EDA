@@ -46,3 +46,4 @@ int main() {
     sort(v.begin(), v.end(), comp);
     if (not sumes(v, sol, s, n, 0, 0)) cout << "no solution" << endl;
 }
+ 
