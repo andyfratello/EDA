@@ -18,3 +18,4 @@ int main() {
         cin >> s;
     }
 }
+ 
