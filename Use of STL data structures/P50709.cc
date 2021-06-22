@@ -32,6 +32,6 @@ int main() {
                 q.pop();
                 q.push(aux);
             }
-        }
+        } 
     }
 }
