@@ -1,0 +1,112 @@
+[
+  {
+    "Product": "Best Available Rate",
+    "Product Revenue": "$144,936.00",
+    "Unique Purchases": 122,
+    "Quantity": 315,
+    "Avg. Price": "$460.11",
+    "Avg. QTY": 2.58,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Book Direct",
+    "Product Revenue": "Sip & Save",
+    "Unique Purchases": "$62,895.00",
+    "Quantity": 112,
+    "Avg. Price": 213,
+    "Avg. QTY": "$295.28",
+    "Product Refund Amount": 1.9,
+    "Cart-to-Detail Rate": "$0.00",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Book Direct and Save!",
+    "Product Revenue": "$56,296.05",
+    "Unique Purchases": 66,
+    "Quantity": 123,
+    "Avg. Price": "$457.69",
+    "Avg. QTY": 1.86,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "AAA Hot Deal 15% Savings",
+    "Product Revenue": "$15,922.85",
+    "Unique Purchases": 38,
+    "Quantity": 54,
+    "Avg. Price": "$294.87",
+    "Avg. QTY": 1.42,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Road Trip Playcation",
+    "Product Revenue": "$15,137.56",
+    "Unique Purchases": 22,
+    "Quantity": 66,
+    "Avg. Price": "$229.36",
+    "Avg. QTY": 3,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Flexibility Matters",
+    "Product Revenue": "$7,144.00",
+    "Unique Purchases": 26,
+    "Quantity": 26,
+    "Avg. Price": "$274.77",
+    "Avg. QTY": 1,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Mobile Discount",
+    "Product Revenue": "$5,898.00",
+    "Unique Purchases": 20,
+    "Quantity": 23,
+    "Avg. Price": "$256.43",
+    "Avg. QTY": 1.15,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Wedding Special Rate",
+    "Product Revenue": "$5,326.00",
+    "Unique Purchases": 6,
+    "Quantity": 12,
+    "Avg. Price": "$443.83",
+    "Avg. QTY": 2,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "CW1014",
+    "Product Revenue": "$1,828.00",
+    "Unique Purchases": 2,
+    "Quantity": 4,
+    "Avg. Price": "$457.00",
+    "Avg. QTY": 2,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  },
+  {
+    "Product": "Summertime Road Trip Package",
+    "Product Revenue": "$1,317.00",
+    "Unique Purchases": 1,
+    "Quantity": 3,
+    "Avg. Price": "$439.00",
+    "Avg. QTY": 3,
+    "Product Refund Amount": "$0.00",
+    "Cart-to-Detail Rate": "0.00%",
+    "Buy-to-Detail Rate": "0.00%"
+  }
+]
